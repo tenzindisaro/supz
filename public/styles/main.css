@@ -1,0 +1,13 @@
+/* public/styles/main.css */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+  color: #e82525;
+  background: #fff;
+}
+header h1 {
+  margin-bottom: 10px;
+}
+main p {
+  margin: 6px 0;
+}
